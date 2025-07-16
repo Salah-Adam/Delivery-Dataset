@@ -7,7 +7,7 @@ Power BI Based Project
   - The main purpose of this project was to practice my Power BI skill.
     
 ## Dataset Used
-   - <a href="https://github.com/Salah-Adam/Movie-Dataset/blob/main/Movie-Data.xlsx">Dataset</a>
+   - <a href="https://github.com/Salah-Adam/Delivery-Dataset/blob/main/Delivery-times_distance-1-.csv">Dataset</a>
 
 ## 🧠 Tools & Features Used
 -  Power BI Desktop
@@ -30,7 +30,7 @@ Power BI Based Project
   8.   Does time of the day impact number of deliveries made.
 
 ## Dashboard
-- <a href="https://github.com/Salah-Adam/Movie-Dataset/blob/main/dashboard.png">View Dashboard</a>
+- <a href="https://github.com/Salah-Adam/Delivery-Dataset/blob/main/dashboard.png">View Dashboard</a>
 
 ##### 📊 Dashboard Highlights
   - ✅ Bar charts for **average duration** and **distance per driver** and **average duration by time of day**.
