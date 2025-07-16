@@ -47,7 +47,7 @@ Power BI Based Project
   - 📈 Drivers like **Beatriz** show efficient delivery with short durations despite longer distances.
   - ❗The scatter plot helped flag some **outlier deliveries** — long durations with short distances, indicating potential inefficiencies.
   - 📉 Travel distances are lower in the morning, suggesting **route optimization** opportunities.
-  - Almost 50% of deliveries are made during the afternoon, making it the busiest time of day.
+  - Almost 50% of deliveries are made during the afternoon, making it the **busiest time of day**.
 
 ## 📬 Contact
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/salah-ai-b99023248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
